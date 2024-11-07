@@ -1,3 +1,4 @@
+# for heasoft 6.31.1, ubuntu
 sudo apt-get -y install libreadline-dev
 sudo apt-get -y install libncurses5-dev
 sudo apt-get -y install ncurses-dev
